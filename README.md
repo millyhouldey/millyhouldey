@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**millyhouldey/millyhouldey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a Psychology MSc student at the University of Sussex and working media professional with four and a half years of experience working as a researcher on documentaries. I have ambitions to pursue further psychological research, passionate about bridging academic insight with practical impact to inform meaningful change in the UK media industry. 
 
-Here are some ideas to get you started:
+<h3>My areas of interest include:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Neuroaesthetics
+
+* Media psychology
+  
+* The science of storytelling
+
+<h3>Media Links 🎬 </h3>
+<ul>
+  <li><a href="https://www.linkedin.com/in/milly-houldey/"><i>LinkedIn</i></a></li>
+  <li><a href="https://www.sky.com/watch/adam-hills-foot-fault"><i>A documentary I made</i></a></li>
+</ul>
